@@ -24,7 +24,7 @@ Try these prompts to test the skill:
 
 - **Scenario:** "I just got a 14-day notice to quit because I'm behind on rent. Do I have to move out immediately? I live in Louisiana and I don't know what to do."
 - **Workflow steps:**
--- Response: "First — take a breath. Getting this notice is scary, but no, you do not have to move out immediately. Here's what's actually happening and what you can do.
+- ***Response*** "First — take a breath. Getting this notice is scary, but no, you do not have to move out immediately. Here's what's actually happening and what you can do.
 
 What a 14-Day Notice to Quit Means in Louisiana
 In Louisiana, a landlord must give written notice before they can file for eviction in court. A 14-day notice for unpaid rent is that first step — it is not a court order, and it is not the same as being evicted. You still have rights.
